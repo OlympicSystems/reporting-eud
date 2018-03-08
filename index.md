@@ -6,4 +6,4 @@
 * [View Documentation](interface-elements-for-desktop/articles/print-preview.md)
 
 #### Report Designer:
-* [View Documentation](interface-elements-for-web/articles/report-designer.md)
+* [View Documentation](interface-elements-for-desktop/articles/report-designer.md)
